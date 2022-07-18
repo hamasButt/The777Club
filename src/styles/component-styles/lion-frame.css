@@ -1,0 +1,18 @@
+.frame-container{
+    display: flex;
+}
+
+.lion-img-container{
+    display: flex;
+    flex-direction: column;
+}
+.middle-lions{
+margin-top: 4rem;
+}
+
+.lion-frame{
+    width: 200px;
+    height: 200px;
+    margin:0 0 17px 17px;
+    opacity: 1;
+}

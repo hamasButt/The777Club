@@ -1,0 +1,51 @@
+.home-section-1{
+    background-image: url("../../assets/images/Group 157.png");
+    background-repeat: no-repeat;
+    height: 950px;
+
+}
+
+
+.navigation {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 130px;
+    width: 100%;
+}
+ul{
+    display: flex;
+    align-items: center;
+}
+.navigation li {
+    list-style-type: none;
+    font-size: 20px;
+
+}
+
+.navigation a {
+    text-decoration: none;
+    color: #fff;
+    padding: 8px 18px;
+}
+
+
+.navigation img {
+    cursor: pointer;
+}
+
+.content{
+    display: flex;
+    justify-content: space-around;
+    padding: 0 135px;
+}
+.main-heading{
+    width: 579px;
+    color: #fff;
+    font-size: 66px;
+}
+.middle-heading{
+    color: #fff;
+    font-size: 35px;
+    margin-bottom: 40px;
+}

@@ -1,0 +1,12 @@
+.gradient-button {
+    width: 232px;
+    height: 59px;
+    font-size: 20px;
+    outline: none;
+    font-weight: 600;
+    border:none;
+    color:#fff;
+    background: transparent linear-gradient(99deg, #E600FF 0%, #2E2CF3 100%) 0% 0% no-repeat padding-box;
+    border-radius: 50px;
+    opacity: 1;
+}
