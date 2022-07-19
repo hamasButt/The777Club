@@ -34,7 +34,7 @@
 
 }
 
-.position6{
+.position6 {
     top: 37rem;
     left: 36rem;
     height: 5px;
@@ -42,36 +42,39 @@
     position: absolute;
     background-color: rgba(254, 151, 0, 1);
 }
-.position7{
+
+.position7 {
     top: 63rem;
     left: 36rem;
     height: 5px;
     width: 13vw;
-    /*height: 234px;*/
+    position: absolute;
     background-color: rgba(66, 164, 245, 1);
-    /*transform: rotate(-0.25turn);*/
 }
-.position8{
+
+.position8 {
     top: 89rem;
     left: 36rem;
     height: 5px;
     width: 13vw;
+    position: absolute;
     background-color: rgba(103, 59, 182, 1);
-    /*transform: rotate(-0.25turn);*/
 }
-.position9{
+
+.position9 {
     top: 50rem;
-    right:35.8rem;
+    right: 35.8rem;
     height: 5px;
     width: 13vw;
+    position: absolute;
     background-color: rgba(66, 164, 245, 1);
-    /*transform: rotate(-0.25turn);*/
 }
-.position10{
+
+.position10 {
     top: 77rem;
     right: 35.8rem;
     height: 5px;
     width: 13vw;
+    position: absolute;
     background-color: rgba(235, 64, 122, 1);
-    /*transform: rotate(-0.25turn);*/
 }
