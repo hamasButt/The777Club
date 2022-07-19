@@ -35,37 +35,43 @@
 }
 
 .position6{
-    top: 30rem;
-    left: 43rem;
-    height: 234px;
+    top: 37rem;
+    left: 36rem;
+    height: 5px;
+    width: 13vw;
+    position: absolute;
     background-color: rgba(254, 151, 0, 1);
-    transform: rotate(-0.25turn);
 }
 .position7{
-    top: 56rem;
-    left: 43rem;
-    height: 234px;
+    top: 63rem;
+    left: 36rem;
+    height: 5px;
+    width: 13vw;
+    /*height: 234px;*/
     background-color: rgba(66, 164, 245, 1);
-    transform: rotate(-0.25turn);
+    /*transform: rotate(-0.25turn);*/
 }
 .position8{
-    top: 82rem;
-    left: 43rem;
-    height: 234px;
+    top: 89rem;
+    left: 36rem;
+    height: 5px;
+    width: 13vw;
     background-color: rgba(103, 59, 182, 1);
-    transform: rotate(-0.25turn);
+    /*transform: rotate(-0.25turn);*/
 }
 .position9{
-    top: 43.4rem;
-    right:43rem;
-    height: 234px;
+    top: 50rem;
+    right:35.8rem;
+    height: 5px;
+    width: 13vw;
     background-color: rgba(66, 164, 245, 1);
-    transform: rotate(-0.25turn);
+    /*transform: rotate(-0.25turn);*/
 }
 .position10{
-    top: 69rem;
-    right: 43rem;
-    height: 234px;
+    top: 77rem;
+    right: 35.8rem;
+    height: 5px;
+    width: 13vw;
     background-color: rgba(235, 64, 122, 1);
-    transform: rotate(-0.25turn);
+    /*transform: rotate(-0.25turn);*/
 }

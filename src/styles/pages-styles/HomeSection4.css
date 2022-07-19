@@ -2,6 +2,7 @@
     background-image: url("../../assets/images/Group 179.png");
     background-repeat: no-repeat;
     height: 1690px;
+    position: relative;
 }
 
 .roadmap-container {
