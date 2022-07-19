@@ -27,7 +27,6 @@ export const LionFrames = () => {
         {img: lion8},
         {img: lion9},
     ]
-    let n = 3
 
     return (
         <>
