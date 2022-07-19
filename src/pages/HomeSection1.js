@@ -17,7 +17,7 @@ export const HomeSection1 = () => {
         <div className='home-section-1'>
             <div className="navigation">
 
-                <img src={triSevenLogo} alt="logo" height="90px" className='nav-logo'/>
+                <img src={triSevenLogo} alt="logo"  className='nav-logo'/>
 
                 <ul className="navbar">
                     {
@@ -25,7 +25,7 @@ export const HomeSection1 = () => {
                             return <li key={i}><a href="#">{item.name}</a></li>
                         })
                     }
-                    <GradientButton label={'Contact Us'}/>
+                    <GradientButton label={'CONTACT US'}/>
                 </ul>
             </div>
 
@@ -33,7 +33,7 @@ export const HomeSection1 = () => {
                 <div className="left-section">
                     <h1 className='main-heading'>777 Clubhouse Founders Collection</h1>
                     <div className='middle-heading'>Elevate your lifestyle</div>
-                    <GradientButton label={'Connect Wallet'}/>
+                    <GradientButton label={'CONNECT WALLET'}/>
                 </div>
                 <div className="right-section">
                    <LionFrames/>

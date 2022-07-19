@@ -20,7 +20,7 @@ export const HomeSection2 = () => {
                         in life and we want to give you the chance to share it with us. Getting in early on the 777Club
                         will give you more benefits, more utility, and more opportunities to enhance your lifestyle.
                     </div>
-
+                    <GradientButton label={'CONNECT WALLET'}/>
                 </div>
             </div>
         </div>
