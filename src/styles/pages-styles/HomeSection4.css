@@ -1,0 +1,35 @@
+.home-section-4 {
+    background-image: url("../../assets/images/Group 179.png");
+    background-repeat: no-repeat;
+    height: 1690px;
+}
+
+.roadmap-container {
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+.roadmap {
+    width: 276px;
+    margin-top: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 281px;
+    background: transparent url('../../assets/images/Group 178.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.roadmap-ball {
+    font-size: 36px;
+    font-weight: 700;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    opacity: 1;
+}
+
+.box-loop-container {
+    display: flex;
+    justify-content: space-between;
+}

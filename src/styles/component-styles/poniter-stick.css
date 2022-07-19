@@ -1,0 +1,71 @@
+.color-stick {
+    width: 5px;
+    position: absolute;
+    background-color: rgba(230, 0, 255, 1);
+}
+
+.position1 {
+    top: 22.5rem;
+    height: 170px;
+}
+
+.position2 {
+    top: 41.9rem;
+    height: 68px;
+}
+
+.position3 {
+    top: 55rem;
+    height: 68px;
+    background: transparent linear-gradient(rgba(230, 0, 255, 1), rgba(46, 44, 243, 1)) 0% 0% no-repeat padding-box;
+}
+
+.position4 {
+    top: 68rem;
+    height: 68px;
+    background-color: rgba(46, 44, 243, 1);
+
+}
+
+.position5 {
+    top: 81rem;
+    height: 68px;
+    background-color: rgba(46, 44, 243, 1);
+
+}
+
+.position6{
+    top: 30rem;
+    left: 43rem;
+    height: 234px;
+    background-color: rgba(254, 151, 0, 1);
+    transform: rotate(-0.25turn);
+}
+.position7{
+    top: 56rem;
+    left: 43rem;
+    height: 234px;
+    background-color: rgba(66, 164, 245, 1);
+    transform: rotate(-0.25turn);
+}
+.position8{
+    top: 82rem;
+    left: 43rem;
+    height: 234px;
+    background-color: rgba(103, 59, 182, 1);
+    transform: rotate(-0.25turn);
+}
+.position9{
+    top: 43.4rem;
+    right:43rem;
+    height: 234px;
+    background-color: rgba(66, 164, 245, 1);
+    transform: rotate(-0.25turn);
+}
+.position10{
+    top: 69rem;
+    right: 43rem;
+    height: 234px;
+    background-color: rgba(235, 64, 122, 1);
+    transform: rotate(-0.25turn);
+}

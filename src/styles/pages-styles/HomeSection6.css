@@ -1,0 +1,28 @@
+.home-section-6 {
+    background-image: url("../../assets/images/Group 184.png");
+    background-repeat: no-repeat;
+    height: 660px;
+}
+.faqs-heading{
+    font-size: 42px;
+    color: #fff;
+    font-weight: 700;
+    padding: 60px;
+    text-align: center;
+}
+.faq-section{
+    display: flex;
+    flex-wrap: wrap;
+    height: 380px;
+    padding:0 180px;
+    justify-content: center;
+    flex-direction: column;
+}
+.question-paragraph{
+    width: 600px;
+    padding-left: 10px;
+    height: 121px;
+    margin:15px 0;
+    color: #FFF;
+    font-size: 18px;
+}

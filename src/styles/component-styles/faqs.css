@@ -1,0 +1,12 @@
+.faqs{
+    color: rgba(255, 255, 255, 1);
+    text-align: left;
+    font-weight: 700;
+    font-size: 20px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    width: 580px;
+    padding:15px 15px 17px 15px;
+    border-radius: 15px;
+    background: rgba(69, 38, 177, 1) 0% 0% no-repeat padding-box;
+}

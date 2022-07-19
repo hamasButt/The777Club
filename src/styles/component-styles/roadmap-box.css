@@ -1,0 +1,65 @@
+.box-container {
+    margin-top: 5rem;
+    margin-left: 5rem;
+    justify-content: flex-start;
+    background: rgba(113, 83, 217, 1) 0% 0% no-repeat padding-box;
+    border-radius: 25px;
+    opacity: 1;
+}
+
+
+.box-text {
+    padding: 20px;
+    text-align: left;
+    font-size: 20px;
+    letter-spacing: 0;
+    color: rgba(255, 255, 255, 1);
+    opacity: 1;
+}
+
+.left-container-box1 {
+    width: 482px;
+    height: 300px;
+    border: 5px solid rgba(254, 151, 0, 1);
+
+}
+
+.left-container-box2 {
+    width: 482px;
+    margin-top: 11rem;
+    height: 160px;
+    background: rgba(69, 38, 177, 1) 0% 0% no-repeat padding-box;
+    border: 5px solid rgba(66, 164, 245, 1);
+
+}
+
+.left-container-box3 {
+    margin-top: 12rem;
+    width: 482px;
+    height: 222px;
+    background: rgba(113, 83, 217, 1) 0% 0% no-repeat padding-box;
+    border: 5px solid rgba(103, 59, 182, 1);
+}
+
+.right-container-box1 {
+    width: 482px;
+    margin-left: 0;
+    margin-top: 20rem;
+    margin-right: 5rem;
+    height: 260px;
+    background: rgba(113, 83, 217, 1) 0% 0% no-repeat padding-box;
+    border: 5px solid rgba(66, 164, 245, 1);
+
+}
+
+.right-container-box2 {
+    width: 482px;
+    margin-top: 12.2rem;
+    margin-left: 0;
+    height: 160px;
+    background: rgba(69, 38, 177, 1) 0% 0% no-repeat padding-box;
+    border: 5px solid rgba(235, 64, 122, 1);
+
+}
+
+

@@ -2,33 +2,42 @@
     background-image: url("../../assets/images/Group 184.png");
     background-repeat: no-repeat;
     height: 660px;
-    /*width: 1920px;*/
 }
 
-.club-content{
+.club-content {
     display: flex;
-    padding: 140px;
+    justify-content: center;
+    padding: 100px;
 }
 
-.passes-lion{
+.passes-lion {
     width: 527px;
     height: 330px;
+    padding: 40px;
+    margin-top: 60px;
 }
 
-.right-part{
-    /*width:595px;*/
+.right-part {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width:500px ;
 
 }
-.club-heading{
-    color:#FFF;
+
+.club-heading {
+    color: #FFF;
     font-size: 42px;
 
 }
-.club-paragragh{
+
+.club-paragragh {
     color: #FFF;
     font-size: 18px;
-
 }
-.second{
-    margin-top: 20px;
+
+.second {
+    margin-top: 40px;
+    margin-bottom: 50px;
+
 }

@@ -1,0 +1,64 @@
+.home-section-7{
+    background: transparent linear-gradient(0deg, rgba(32, 11, 106, 1) 0%, rgba(16, 6, 53, 1) 100%) 0% 0% no-repeat padding-box;
+    opacity: 1;
+    height: 720px;
+}
+.contact-content{
+    height: 80vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    position: relative;
+    align-items: center;
+}
+
+.seven-logo{
+    width: 144px;
+    height: 158px;
+
+}
+.contact-paragraph{
+    font-size: 18px;
+    color:#fff;
+    width: 935px;
+    text-align: center;
+    letter-spacing: 0;
+    margin-top: 30px;
+    color: rgba(255, 255, 255, 1);
+    opacity: 1;
+}
+.logo-container {
+    display: flex;
+    margin-top:30px
+}
+.logo-svg{
+    margin-right: 20px;
+}
+.footer{
+    display: flex;
+    width: 75%;
+    justify-content: space-between;
+    position: absolute;
+    margin-left: 4px;
+    bottom: -4%;
+}
+
+.footer-text-holder{
+    display: flex;
+    width: 350px;
+    justify-content: space-around;
+
+}
+.footer-text{
+    color:#fff;
+    font-size: 16px;
+}
+
+hr.solid {
+    bottom: -.5%;
+    width: 74%;
+    opacity: 0.25;
+    position: absolute;
+    border-top: 1px solid #bbb;
+}
